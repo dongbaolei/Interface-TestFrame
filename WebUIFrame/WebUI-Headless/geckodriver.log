@@ -1,0 +1,185 @@
+1524812647005	geckodriver	INFO	geckodriver 0.19.0
+1524812647020	geckodriver	INFO	Listening on 127.0.0.1:42229
+1524812649965	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\xt\\AppData\\Local\\Temp\\rust_mozprofile.h3uxwaNpnD9S"
+*** You are running in headless mode.
+1524812651672	Marionette	INFO	Enabled via --marionette
+1524812654170	Marionette	INFO	Listening on port 42242
+1524812655174	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=p&json=1&p=3&sid=1464_21118_20929&req=2&csor=1&cb=jQuery1102027267937241511553_1524812656662&_=1524812656664, line 1: TypeError: jQuery1102027267937241511553_1524812656662 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=py&json=1&p=3&sid=1464_21118_20929&req=2&csor=2&pwd=p&cb=jQuery1102027267937241511553_1524812656662&_=1524812656665, line 1: TypeError: jQuery1102027267937241511553_1524812656662 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=1464_21118_20929&req=2&csor=3&pwd=py&cb=jQuery1102027267937241511553_1524812656662&_=1524812656666, line 1: TypeError: jQuery1102027267937241511553_1524812656662 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1464_21118_20929&req=2&csor=5&pwd=pyth&cb=jQuery1102027267937241511553_1524812656662&_=1524812656668, line 1: TypeError: jQuery1102027267937241511553_1524812656662 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=1464_21118_20929&req=2&csor=4&pwd=pyt&cb=jQuery1102027267937241511553_1524812656662&_=1524812656667, line 1: TypeError: jQuery1102027267937241511553_1524812656662 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=1464_21118_20929&req=2&csor=6&pwd=pytho&cb=jQuery1102027267937241511553_1524812656662&_=1524812656669, line 1: TypeError: jQuery1102027267937241511553_1524812656662 is not a function
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6216, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8&_=1524812713931, line 1: TypeError: jQuery1102001732884918438604_1524812713928 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=1431_26260_21098_20719&req=2&csor=3&pwd=py&cb=jQuery1102001732884918438604_1524812713928&_=1524812713932, line 1: TypeError: jQuery1102001732884918438604_1524812713928 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=1431_26260_21098_20719&req=2&csor=6&pwd=pytho&cb=jQuery1102001732884918438604_1524812713928&_=1524812713935, line 1: TypeError: jQuery1102001732884918438604_1524812713928 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=1431_26260_21098_20719&req=2&csor=4&pwd=pyt&cb=jQuery1102001732884918438604_1524812713928&_=1524812713933, line 1: TypeError: jQuery1102001732884918438604_1524812713928 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1431_26260_21098_20719&req=2&csor=5&pwd=pyth&cb=jQuery1102001732884918438604_1524812713928&_=1524812713934, line 1: TypeError: jQuery1102001732884918438604_1524812713928 is not a function
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525764903951	geckodriver	INFO	geckodriver 0.19.0
+1525764903972	geckodriver	INFO	Listening on 127.0.0.1:43463
+1525764907085	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\xt\\AppData\\Local\\Temp\\rust_mozprofile.4SzRN8vjB8BA"
+*** You are running in headless mode.
+1525764908570	Marionette	INFO	Enabled via --marionette
+1525764911404	Marionette	INFO	Listening on port 43471
+1525764912292	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1525765331912	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1525765616934	geckodriver	INFO	geckodriver 0.19.0
+1525765616944	geckodriver	INFO	Listening on 127.0.0.1:44623
+1525765620023	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\xt\\AppData\\Local\\Temp\\rust_mozprofile.N4CWyQH5esvM"
+*** You are running in headless mode.
+1525765621664	Marionette	INFO	Enabled via --marionette
+1525765624246	Marionette	INFO	Listening on port 44635
+1525765625246	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525765697571	geckodriver	INFO	geckodriver 0.19.0
+1525765697581	geckodriver	INFO	Listening on 127.0.0.1:44802
+1525765700505	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\xt\\AppData\\Local\\Temp\\rust_mozprofile.mNJ5dBrjCQ2I"
+*** You are running in headless mode.
+1525765702390	Marionette	INFO	Enabled via --marionette
+1525765705048	Marionette	INFO	Listening on port 44814
+1525765705924	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525765739558	geckodriver	INFO	geckodriver 0.19.0
+1525765739568	geckodriver	INFO	Listening on 127.0.0.1:44919
+1525765742644	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\xt\\AppData\\Local\\Temp\\rust_mozprofile.HV2nr2MUMH3i"
+*** You are running in headless mode.
+1525765744012	Marionette	INFO	Enabled via --marionette
+1525765746728	Marionette	INFO	Listening on port 44931
+1525765746784	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1525765831955	geckodriver	INFO	geckodriver 0.19.0
+1525765831965	geckodriver	INFO	Listening on 127.0.0.1:45087
+1525765835025	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\xt\\AppData\\Local\\Temp\\rust_mozprofile.An26VXSmez8j"
+*** You are running in headless mode.
+1525765836220	Marionette	INFO	Enabled via --marionette
+1525765838632	Marionette	INFO	Listening on port 45099
+1525765838656	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1525765865454	geckodriver	INFO	geckodriver 0.19.0
+1525765865464	geckodriver	INFO	Listening on 127.0.0.1:45178
+1525765868532	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\xt\\AppData\\Local\\Temp\\rust_mozprofile.enM8hbEllSiM"
+*** You are running in headless mode.
+1525765870052	Marionette	INFO	Enabled via --marionette
+1525765873008	Marionette	INFO	Listening on port 45190
+1525765873742	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525766617414	geckodriver	INFO	geckodriver 0.19.0
+1525766617426	geckodriver	INFO	Listening on 127.0.0.1:45720
+1525766620339	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\xt\\AppData\\Local\\Temp\\rust_mozprofile.apbHqYqGr1KT"
+*** You are running in headless mode.
+1525766622582	Marionette	INFO	Enabled via --marionette
+1525766630720	Marionette	INFO	Listening on port 45728
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525766630762	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=py&json=1&p=3&sid=1454_21108_20718&req=2&csor=2&pwd=p&cb=jQuery110207209359036686482_1525766631840&_=1525766631843, line 1: TypeError: jQuery110207209359036686482_1525766631840 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=1454_21108_20718&req=2&csor=3&pwd=py&cb=jQuery110207209359036686482_1525766631840&_=1525766631844, line 1: TypeError: jQuery110207209359036686482_1525766631840 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=1454_21108_20718&req=2&csor=6&pwd=pytho&cb=jQuery110207209359036686482_1525766631840&_=1525766631847, line 1: TypeError: jQuery110207209359036686482_1525766631840 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1454_21108_20718&req=2&csor=5&pwd=pyth&cb=jQuery110207209359036686482_1525766631840&_=1525766631846, line 1: TypeError: jQuery110207209359036686482_1525766631840 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=1454_21108_20718&req=2&csor=4&pwd=pyt&cb=jQuery110207209359036686482_1525766631840&_=1525766631845, line 1: TypeError: jQuery110207209359036686482_1525766631840 is not a function
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1526030104113	geckodriver	INFO	geckodriver 0.19.0
+1526030104168	geckodriver	INFO	Listening on 127.0.0.1:9460
+1526030107096	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\xt\\AppData\\Local\\Temp\\rust_mozprofile.NZaeDwNiuzn5"
+*** You are running in headless mode.
+1526030110870	Marionette	INFO	Enabled via --marionette
+1526030116348	Marionette	INFO	Listening on port 9469
+1526030116754	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=1446_21126_20930&req=2&csor=4&pwd=pyt&cb=jQuery110209048425744153556_1526030118808&_=1526030118813, line 1: TypeError: jQuery110209048425744153556_1526030118808 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1446_21126_20930&req=2&csor=5&pwd=pyth&cb=jQuery110209048425744153556_1526030118808&_=1526030118814, line 1: TypeError: jQuery110209048425744153556_1526030118808 is not a function
+1526030333571	geckodriver	INFO	geckodriver 0.19.0
+1526030333585	geckodriver	INFO	Listening on 127.0.0.1:9584
+1526030336542	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\xt\\AppData\\Local\\Temp\\rust_mozprofile.6MhpcqeULU6L"
+*** You are running in headless mode.
+1526030338158	Marionette	INFO	Enabled via --marionette
+1526030341156	Marionette	INFO	Listening on port 9592
+1526030341766	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=p&json=1&p=3&sid=1449_26357_21080&req=2&csor=1&cb=jQuery110206574696297394896_1526030343208&_=1526030343210, line 1: TypeError: jQuery110206574696297394896_1526030343208 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=1449_26357_21080&req=2&csor=3&pwd=py&cb=jQuery110206574696297394896_1526030343208&_=1526030343212, line 1: TypeError: jQuery110206574696297394896_1526030343208 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=py&json=1&p=3&sid=1449_26357_21080&req=2&csor=2&pwd=p&cb=jQuery110206574696297394896_1526030343208&_=1526030343211, line 1: TypeError: jQuery110206574696297394896_1526030343208 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=1449_26357_21080&req=2&csor=4&pwd=pyt&cb=jQuery110206574696297394896_1526030343208&_=1526030343213, line 1: TypeError: jQuery110206574696297394896_1526030343208 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1449_26357_21080&req=2&csor=5&pwd=pyth&cb=jQuery110206574696297394896_1526030343208&_=1526030343214, line 1: TypeError: jQuery110206574696297394896_1526030343208 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=1449_26357_21080&req=2&csor=6&pwd=pytho&cb=jQuery110206574696297394896_1526030343208&_=1526030343215, line 1: TypeError: jQuery110206574696297394896_1526030343208 is not a function
+1526032621291	geckodriver	INFO	geckodriver 0.19.0
+1526032621303	geckodriver	INFO	Listening on 127.0.0.1:10321
+1526032624422	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\xt\\AppData\\Local\\Temp\\rust_mozprofile.nwKPSB0yu1KM"
+*** You are running in headless mode.
+1526032625144	Marionette	INFO	Enabled via --marionette
+1526032627676	Marionette	INFO	Listening on port 10330
+1526032628038	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=py&json=1&p=3&sid=1439_21093_20928&req=2&csor=2&pwd=p&cb=jQuery1102011744808696727893_1526032634146&_=1526032634149, line 1: TypeError: jQuery1102011744808696727893_1526032634146 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=1439_21093_20928&req=2&csor=3&pwd=py&cb=jQuery1102011744808696727893_1526032634146&_=1526032634150, line 1: TypeError: jQuery1102011744808696727893_1526032634146 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=1439_21093_20928&req=2&csor=4&pwd=pyt&cb=jQuery1102011744808696727893_1526032634146&_=1526032634151, line 1: TypeError: jQuery1102011744808696727893_1526032634146 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=1439_21093_20928&req=2&csor=6&pwd=pytho&cb=jQuery1102011744808696727893_1526032634146&_=1526032634153, line 1: TypeError: jQuery1102011744808696727893_1526032634146 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1439_21093_20928&req=2&csor=5&pwd=pyth&cb=jQuery1102011744808696727893_1526032634146&_=1526032634152, line 1: TypeError: jQuery1102011744808696727893_1526032634146 is not a function
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1526032709185	geckodriver	INFO	geckodriver 0.19.0
+1526032709197	geckodriver	INFO	Listening on 127.0.0.1:10393
+1526032712294	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\xt\\AppData\\Local\\Temp\\rust_mozprofile.6v3cMs6Zum7z"
+*** You are running in headless mode.
+1526032713052	Marionette	INFO	Enabled via --marionette
+1526032715412	Marionette	INFO	Listening on port 10401
+1526032717286	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=1458_21113_20929&req=2&csor=3&pwd=py&cb=jQuery1102032748562626801114_1526032718718&_=1526032718722, line 1: TypeError: jQuery1102032748562626801114_1526032718718 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1458_21113_20929&req=2&csor=5&pwd=pyth&cb=jQuery1102032748562626801114_1526032718718&_=1526032718724, line 1: TypeError: jQuery1102032748562626801114_1526032718718 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=1458_21113_20929&req=2&csor=4&pwd=pyt&cb=jQuery1102032748562626801114_1526032718718&_=1526032718723, line 1: TypeError: jQuery1102032748562626801114_1526032718718 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=1458_21113_20929&req=2&csor=6&pwd=pytho&cb=jQuery1102032748562626801114_1526032718718&_=1526032718725, line 1: TypeError: jQuery1102032748562626801114_1526032718718 is not a function
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+[Child 27768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1526282107683	geckodriver	INFO	geckodriver 0.19.0
+1526282107721	geckodriver	INFO	Listening on 127.0.0.1:23327
+1526282110898	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\xt\\AppData\\Local\\Temp\\rust_mozprofile.FjRXECiYRYHi"
+*** You are running in headless mode.
+1526282115510	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+[Child 31964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1526282126684	Marionette	INFO	Listening on port 23337
+1526282127042	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xt\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
